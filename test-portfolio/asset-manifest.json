@@ -1,8 +1,12 @@
 {
   "files": {
-    "main.css": "./static/css/main.274edc5c.css",
-    "main.js": "./static/js/main.bd4c80a2.js",
+    "main.css": "./static/css/main.6d58c1c7.css",
+    "main.js": "./static/js/main.d4eb6604.js",
     "static/js/787.a2cb61a6.chunk.js": "./static/js/787.a2cb61a6.chunk.js",
+    "static/media/8k_earth_clouds.jpg": "./static/media/8k_earth_clouds.08fcd80007fae8fc7170.jpg",
+    "static/media/8k_earth_daymap.jpg": "./static/media/8k_earth_daymap.54672c1f3ba121d80470.jpg",
+    "static/media/8k_earth_specular_map.jpg": "./static/media/8k_earth_specular_map.7b4efa59933b470e3776.jpg",
+    "static/media/8k_earth_normal_map.jpg": "./static/media/8k_earth_normal_map.930cf2e99bc548140c29.jpg",
     "static/media/helvetica-neu.ttf": "./static/media/helvetica-neu.8a19678078a6b21c8057.ttf",
     "static/media/LaBelleAurore.woff": "./static/media/LaBelleAurore.9c5433c64baa43d1d274.woff",
     "static/media/LaBelleAurore.woff2": "./static/media/LaBelleAurore.a83c1c58fd7e43972e4a.woff2",
@@ -13,12 +17,12 @@
     "static/media/plus.svg": "./static/media/plus.87aa3a1551277023b70e13fec6fb845c.svg",
     "index.html": "./index.html",
     "static/media/minus.svg": "./static/media/minus.5c9704c0891423cb56ec1a220ef62033.svg",
-    "main.274edc5c.css.map": "./static/css/main.274edc5c.css.map",
-    "main.bd4c80a2.js.map": "./static/js/main.bd4c80a2.js.map",
+    "main.6d58c1c7.css.map": "./static/css/main.6d58c1c7.css.map",
+    "main.d4eb6604.js.map": "./static/js/main.d4eb6604.js.map",
     "787.a2cb61a6.chunk.js.map": "./static/js/787.a2cb61a6.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.274edc5c.css",
-    "static/js/main.bd4c80a2.js"
+    "static/css/main.6d58c1c7.css",
+    "static/js/main.d4eb6604.js"
   ]
 }
