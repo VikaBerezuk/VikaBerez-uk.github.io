@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "./static/css/main.d511e19b.css",
-    "main.js": "./static/js/main.117f226e.js",
+    "main.css": "./static/css/main.d6a322b2.css",
+    "main.js": "./static/js/main.f1cc0c6f.js",
     "static/js/787.a2cb61a6.chunk.js": "./static/js/787.a2cb61a6.chunk.js",
     "static/media/LaBelleAurore.woff": "./static/media/LaBelleAurore.9c5433c64baa43d1d274.woff",
     "static/media/LaBelleAurore.woff2": "./static/media/LaBelleAurore.a83c1c58fd7e43972e4a.woff2",
@@ -13,12 +13,12 @@
     "static/media/plus.svg": "./static/media/plus.87aa3a1551277023b70e13fec6fb845c.svg",
     "index.html": "./index.html",
     "static/media/minus.svg": "./static/media/minus.5c9704c0891423cb56ec1a220ef62033.svg",
-    "main.d511e19b.css.map": "./static/css/main.d511e19b.css.map",
-    "main.117f226e.js.map": "./static/js/main.117f226e.js.map",
+    "main.d6a322b2.css.map": "./static/css/main.d6a322b2.css.map",
+    "main.f1cc0c6f.js.map": "./static/js/main.f1cc0c6f.js.map",
     "787.a2cb61a6.chunk.js.map": "./static/js/787.a2cb61a6.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.d511e19b.css",
-    "static/js/main.117f226e.js"
+    "static/css/main.d6a322b2.css",
+    "static/js/main.f1cc0c6f.js"
   ]
 }
